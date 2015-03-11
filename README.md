@@ -1,2 +1,4 @@
-# gtbi.github.io
-Source code of the GTBI website.
+gtbi.github.io
+==============
+
+Website for Green Technology Business Incubation
